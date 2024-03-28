@@ -1,11 +1,5 @@
-
-import random
-
-# both sides are inclusive
-random_integer = random.randint(1, 10)
-print(random_integer)
+ # Rock_Paper_Scissors GAME
 
 
-# not include 1
-random_float = random.random()
-print(random_float)
+ user_choice = input("What do you want to choose? Type 0 for Rock, 1 for Paper or 2 for Scissors.\n")
+
