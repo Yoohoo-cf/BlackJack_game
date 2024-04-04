@@ -5,7 +5,7 @@ This is a simple implementation of the classic casino card game Blackjack writte
 
 ## How to Play
 
-1. Run the main.py file in your Python environment.
+1. Run the BlackJack_game.py file in your Python environment.
 2. Follow the prompts to play the game.
 3. You'll start with two cards. Choose whether to get another card or keep your current hand.
 4. Try to get as close to 21 as possible without exceeding it.
@@ -25,8 +25,8 @@ Python 3.x installed
 ## How to Run
 
 1. Clone or download the repository to your local machine.
-2. Navigate to the directory containing the main.py file.
-3. Run the following command in your terminal or command prompt: python main.py
+2. Navigate to the directory containing the BlackJack_game.py file.
+3. Run the following command in your terminal or command prompt: python BlackJack_game.py
 4. Follow the on-screen instructions to play the game.
 
 ### Enjoy and Have Fun!
